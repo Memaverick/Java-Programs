@@ -5,6 +5,7 @@ class Butterfly_Pattern
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
+        //To Take number of lines to be print
         System.out.print("N:");   
         int n = sc.nextInt();
 
